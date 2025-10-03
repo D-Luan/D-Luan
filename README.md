@@ -10,10 +10,3 @@ Hi, my name's Luan and I'm just another passionate and immersed programmer in th
 ![Java](https://img.shields.io/badge/Java-orange)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![Git](https://img.shields.io/badge/Git-orange)
-
-#### Concepts & Methodologies:
-
-- Agile Methodologies (Scrum, Kanban, XP)
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- REST APIs
