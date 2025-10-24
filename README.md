@@ -1,12 +1,13 @@
-Hi, my name's Luan and I'm just another passionate and immersed programmer in the world of computing. Welcome! Feel free to use any of my repositories if you find them helpful. 
+Hi, my name's Luan. I'm a student of Computer Science and working to be a Web Developer.
 
 ---
 
-#### Technologies & Tools: 
+####  Frameworks & Technologies: 
 
-![C](https://img.shields.io/badge/C-gray)
-![C#](https://img.shields.io/badge/C%23-purple)
-![.NET](https://img.shields.io/badge/.NET-blue)
-![Java](https://img.shields.io/badge/Java-orange)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![Git](https://img.shields.io/badge/Git-orange)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logoColor=grey)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
