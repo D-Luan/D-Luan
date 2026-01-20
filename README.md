@@ -1,5 +1,5 @@
 ## Hi, I'm Luan! 👋
-### Backend Developer .NET
+### Backend Developer
 
 Computer Science student (5th semester) focused on Software Engineering and Backend development with .NET. I have over 1 year of practical experience building applications using **ASP.NET Core (MVC & Web API)**, **Clean Architecture**, and **DDD**, emphasizing code quality through automated testing (**xUnit/TDD**) and DevOps pipelines (**Docker/Azure**).
 
