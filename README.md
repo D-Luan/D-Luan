@@ -1,11 +1,14 @@
 ## Hi, I'm Luan! 👋
 
-Computer Science student (5th semester) focused on Software Engineering and Backend development with .NET. I have over 1 year of practical experience building applications using **ASP.NET Core (MVC & Web API)**, **Clean Architecture**, and **DDD**, emphasizing code quality through automated testing (**xUnit/TDD**) and DevOps pipelines (**Docker/Azure**).
+Computer Science student (5th semester) focusing on Software Engineering and Fullstack Development. 
+
+I have practical experience building applications using ASP.NET Core (MVC & Web API) and Python (FastAPI), applying concepts such as Clean Architecture and DDD. I'm currently improving my skills in code quality through automated testing (xUnit/Pytest) and DevOps pipelines (Docker/Azure). Recently, I've been working on ETL pipelines to process real-world data and building analytics dashboards with React and Vue.js.
 
 **Featured Projects**
-- **[AcademicSystem](https://github.com/D-Luan/academic-management-system):** Enterprise API with Clean Arch, DDD, and JWT Authentication.
-- **[Accessibility Hub](https://github.com/D-Luan/accessibility-hub):** Fullstack MVC application focused on inclusion and SSR.
-
+*   **[AcademicSystem](https://github.com/D-Luan/academic-management-system):** Enterprise API built with .NET 9, Clean Architecture, DDD, and JWT Authentication. Focused on high-standard backend engineering and TDD.
+*   **[EnemMetrics](https://github.com/D-Luan/enem-metrics):** Data Analytics dashboard that processes massive **INEP/ENEM Microdata**. Built with FastAPI, React, and Chart.js to visualize educational inequality.
+*   **[GovSpend Analytics](https://github.com/D-Luan/govspend-analytics):** A fullstack solution with a custom **ETL Pipeline** (Python/Pandas) and Star Schema modeling to analyze Brazilian public spending.
+*   **[Accessibility Hub](https://github.com/D-Luan/accessibility-hub):** Fullstack MVC application focused on web accessibility and Server-Side Rendering (SSR).
 ---
 
 ### Teck Stack
