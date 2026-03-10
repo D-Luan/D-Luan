@@ -1,6 +1,6 @@
 ## Hi, I'm Luan! 👋
 
-Software Engineer & Fullstack Developer passionate about building robust, scalable applications. With practical experience in .NET and Python ecosystems, I architect solutions using Clean Architecture and DDD principles. I prioritize system reliability through automated testing (TDD) and CI/CD pipelines (Docker, Azure, Koyeb, Neon). Alongside backend and frontend (React/Vue.js) development, I have a strong focus on Data Engineering—building full-stack OLAP systems, complex ETL pipelines, and data-driven dashboards.
+Fullstack Developer with a strong focus on backend and data engineering. I build end-to-end projects using .NET, Python, and React/Vue.js. Lately, my focus has been on applying Clean Architecture, setting up CI/CD workflows, and developing ETL processes for OLAP systems. I'm a curious developer, always focused on learning through practical building and problem-solving.
 
 **Featured Projects**
 *   **[AcademicSystem](https://github.com/D-Luan/academic-management-system):** Enterprise API built with .NET 9, Clean Architecture, DDD, and JWT Authentication. Focused on high-standard backend engineering and TDD.
