@@ -4,7 +4,7 @@ Fullstack Developer with a strong focus on backend and data engineering. I build
 
 **Featured Projects**
 *   **[AcademicSystem](https://github.com/D-Luan/academic-management-system):** Enterprise API built with .NET 9, Clean Architecture, DDD, and JWT Authentication. Focused on high-standard backend engineering and TDD.
-*   **[Gestão Residencial](https://github.com/D-Luan/sistema-de-gestao-residencial)**: Fullstack application for tracking finances, people, and household transactions. Built with a .NET Web API utilizing Vertical Slice Architecture, a React/TypeScript frontend, and a containerized database via Docker.
+*   **[Residential Management System](https://github.com/D-Luan/sistema-de-gestao-residencial)**: Fullstack application for tracking finances, people, and household transactions. Built with a .NET Web API utilizing Vertical Slice Architecture, a React/TypeScript frontend, and a containerized database via Docker.
 *   **[EnemMetrics](https://github.com/D-Luan/enem-metrics):** Data Analytics dashboard that processes massive **INEP/ENEM Microdata**. Built with FastAPI, React, and Chart.js to visualize educational inequality.
 *   **[GovSpend Analytics](https://github.com/D-Luan/govspend-analytics):** A fullstack solution with a custom **ETL Pipeline** (Python/Pandas) and Star Schema modeling to analyze Brazilian public spending.
 *   **[Accessibility Hub](https://github.com/D-Luan/accessibility-hub):** Fullstack MVC application focused on web accessibility and Server-Side Rendering (SSR).
@@ -19,6 +19,7 @@ Fullstack Developer with a strong focus on backend and data engineering. I build
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-2C3E50?style=for-the-badge&logo=polars&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F8981D?style=for-the-badge&logo=java&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
