@@ -1,6 +1,6 @@
 ## Hi, I'm Luan! 👋
 
-Fullstack Developer with a strong focus on backend and data engineering. I build end-to-end projects using .NET, Python, and React/Vue.js. Lately, my focus has been on applying Clean Architecture, setting up CI/CD workflows, and developing ETL processes for OLAP systems. I'm a curious developer, always focused on learning through practical building and problem-solving.
+Fullstack Developer with a strong focus on backend and data engineering. I build end-to-end projects using .NET, Python, and React. Lately, my focus has been on applying Clean Architecture, setting up CI/CD workflows, and developing ETL processes for OLAP systems. I'm a curious developer, always focused on learning through practical building and problem-solving.
 
 **Featured Projects**
 *   **[AcademicSystem](https://github.com/D-Luan/academic-management-system):** Enterprise API built with .NET 9, Clean Architecture, DDD, and JWT Authentication. Focused on high-standard backend engineering and TDD.
