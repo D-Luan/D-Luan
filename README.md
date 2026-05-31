@@ -8,7 +8,6 @@ Fullstack Developer with a strong focus on backend and data engineering. I build
 *   **[Residential Management System](https://github.com/D-Luan/sistema-de-gestao-residencial)**: Fullstack application for tracking finances, people, and household transactions. Built with a .NET Web API utilizing Vertical Slice Architecture, a React/TypeScript frontend, and a containerized database via Docker.
 *   **[EnemMetrics](https://github.com/D-Luan/enem-metrics):** Data Analytics dashboard that processes massive **INEP/ENEM Microdata**. Built with FastAPI, React, and Chart.js to visualize educational inequality.
 *   **[GovSpend Analytics](https://github.com/D-Luan/govspend-analytics):** A fullstack solution with a custom **ETL Pipeline** (Python/Pandas) and Star Schema modeling to analyze Brazilian public spending.
-*   **[Accessibility Hub](https://github.com/D-Luan/accessibility-hub):** Fullstack MVC application focused on web accessibility and Server-Side Rendering (SSR).
 ---
 
 ### Teck Stack
