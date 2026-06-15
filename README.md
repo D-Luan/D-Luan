@@ -14,4 +14,3 @@ I build practical projects to improve my skills in REST APIs, software architect
 | **Testing & Quality** | xUnit, Testcontainers, Swagger/Scalar, Postman      |
 | **Cloud & DevOps**    | Azure, Docker, Git, GitHub Actions, CI/CD           |
 | **Frontend**          | React, TypeScript, HTML, CSS, Tailwind              |
-| **AI & Tools**        | Git, Codex, Antigravity, Linux                      |
