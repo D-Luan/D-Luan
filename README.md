@@ -6,7 +6,7 @@ I'm a backend developer focused on C#, .NET, relational databases, automated tes
 
 | Area                  | Technologies                                        |
 | --------------------- | --------------------------------------------------- |
-| **Backend**           | C#, .NET, ASP.NET Core, Python, FastAPI             |
+| **Backend**           | C#, .NET, ASP.NET Core (Web API & MVC), Python, FastAPI             |
 | **Databases**         | PostgreSQL, SQL Server, SQLite                      |
 | **Data Access**       | Entity Framework Core, Dapper, DbUp                 |
 | **Testing & Quality** | xUnit, Testcontainers, Swagger/Scalar, Postman      |
