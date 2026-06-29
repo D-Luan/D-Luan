@@ -4,11 +4,11 @@ I'm a backend developer focused on C#, .NET, relational databases, automated tes
 
 ## Tech Stack
 
-| Area                  | Technologies                                        |
-| --------------------- | --------------------------------------------------- |
-| **Backend**           | C#, .NET, ASP.NET Core (Web API & MVC), Python, FastAPI             |
-| **Databases**         | PostgreSQL, SQL Server, SQLite                      |
-| **Data Access**       | Entity Framework Core, Dapper, DbUp                 |
-| **Testing & Quality** | xUnit, Testcontainers, Swagger/Scalar, Postman      |
-| **Cloud & DevOps**    | Azure, Docker, Git, GitHub Actions, CI/CD           |
-| **Frontend**          | React, TypeScript, HTML, CSS, Tailwind              |
+| Area                  | Technologies                                            |
+| --------------------- | ------------------------------------------------------- |
+| **Backend**           | C#, .NET, ASP.NET Core (Web API & MVC), Python, FastAPI |
+| **Databases**         | PostgreSQL, SQL Server, SQLite                          |
+| **Data Access**       | Entity Framework Core, Dapper, DbUp                     |
+| **Testing & Quality** | xUnit, Testcontainers, Swagger/Scalar, Postman          |
+| **Cloud & DevOps**    | Azure, Docker, Git, GitHub Actions, CI/CD               |
+| **Frontend**          | React, TypeScript, HTML, CSS, Tailwind                  |
